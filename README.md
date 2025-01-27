@@ -1,2 +1,3 @@
 # BoredGames
-Board Game related
+
+[Azul Board Game Summarized Rules](/azul_quickguide)
