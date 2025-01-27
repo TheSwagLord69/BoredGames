@@ -4,13 +4,15 @@
 
 [Purpose of Game](#objective)
 
-[End of Game](#game-ends)
+[When does the game end?](#game-ends)
 
 [Game Setup](#setup)
 
 [Gameplay](#gameplay-phase)
 
 [Scoring](#scoring-phase)
+
+[Ending the Game](#concluding-the-game)
 
 [FAQ](#faq)
 
@@ -45,6 +47,8 @@
 > _*Factory display: The circular cutout_
 
 ## Gameplay Phase
+0. Determine 1st Player
+    1. Most recently visited Portugal
 1. Player with 1st person tile
     1. Perform Setup.
     2. Place 1st person tile in center of table.
@@ -62,7 +66,9 @@
 4. In a clockwise manner, repeat steps 2-3 until no more public tiles are available
 5. Begin Scoring Phase
 6. If no player has a horizontal line of tiles on the _wall*_, repeat steps 1-5
-    1. Endgame bonus scoring:
+7. If a player has a horizontal line of tiles on the _wall*_, the game ends.
+    1. Perform normal scoring
+    2. Perform endgame bonus scoring
         1. 3 points per 1 horizontal row on the _wall*_.
         2. 7 points per 1 vertical column on the _wall*_.
         3. 10 points per 1 tile in last row on the _wall*_.
@@ -94,6 +100,11 @@
 
 > _*Wall: The 5x5 grid_
 
+## Concluding the game
+- Player with the highest points wins.
+- In the case of a tie, the player with more complete horizontal lines on the _wall*_ wins.
+    - If that does not break the tie, the victory is shared.
+
 ## FAQ
 - No more tiles in bag
     - Move discarded tiles from the box to the bag, then proceed.
@@ -110,9 +121,6 @@
     - If a tile already exists on the row of the wall, the same tile cannot be added to the _pattern line*_ of that particular row.
 - Total points less than 0
     - Players' cannot have a score lesser than zero.
-- Multiple winners
-    - In the case of a tie, the player with more complete horizontal lines on the _wall*_ wins.
-        - If that does not break the tie, the victory is shared.
 
 > _*Pattern line: The staircase grid_
 
