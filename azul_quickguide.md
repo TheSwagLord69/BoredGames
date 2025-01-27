@@ -1,9 +1,23 @@
 # Azul Board Game Quick Guide
 
-## Objective:
+Table of Contents:
+
+[Purpose of Game](#objective)
+
+[End of Game](#game-ends)
+
+[Game Setup](#setup)
+
+[Gameplay](#gameplay-phase)
+
+[Scoring](#scoring-phase)
+
+[FAQ](#faq)
+
+## Objective
 - Most points when Game Ends.
 
-## Game Ends:
+## Game Ends
 - When at least 1 player has completed 1 horizontal row in the _wall*_.
 
 > _*Wall: The 5x5 grid_
@@ -30,7 +44,7 @@
 
 > _*Factory display: The circular cutout_
 
-## Gameplay Phase:
+## Gameplay Phase
 1. Player with 1st person tile
     1. Perform Setup.
     2. Place 1st person tile in center of table.
@@ -59,7 +73,7 @@
 
 > _*Wall: The 5x5 grid_
 
-## Scoring phase:
+## Scoring Phase
 1. Move completed _pattern line(s)*_ to same row of the _wall*_
     1. Move 1 tile from completed _pattern line*_ to the same row of the _wall*_.
         1. Discard the rest of the tiles of that _pattern line*_ into box.
