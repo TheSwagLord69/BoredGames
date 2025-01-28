@@ -10,9 +10,9 @@
 
 [Gameplay](#gameplay-phase)
 
-[Scoring for 2 Player Game](#scoring-phase-(2-Player))
+[Scoring for 2 Player Game](#scoring-phase-(2-player))
 
-[Scoring for 3-4 Player Game](#scoring-phase-(3-4-Player))
+[Scoring for 3-4 Player Game](#scoring-phase-(3-4-player))
 
 [Ending the Game](#concluding-the-game)
 
