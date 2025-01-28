@@ -1,6 +1,6 @@
 # Azul Board Game Quick Guide
 
-## Table of Contents:
+## Table of Contents
 
 [Purpose of Game](#objective)
 
