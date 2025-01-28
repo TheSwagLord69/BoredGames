@@ -57,7 +57,7 @@
 > *Decree card: Black card
 
 ## Scoring Phase (2 Player)
-1. Score the zones starting with zone A
+1. Score the ocean zones starting with zone A
 2. Determine harvest turn order for the particular zone
 	1. Player with more boats harvests the catch first
 		1. If number of boats are tied, player with more axe tokens harvests first. Player with more axe tokens discards 1 axe token.
@@ -73,7 +73,7 @@
 > *Catch Card: Red/Green/Blue card
 
 ## Scoring Phase (3-4 Player)
-1. Score the zones starting with zone A
+1. Score the ocean zones starting with zone A
 2. Determine turn order of harvest for the particular zone
 	1. Player with more boats harvests the catch first
 		1. If number of boats are tied, player with more axe tokens harvests first. Player with more axe tokens discards 1 axe token.
@@ -84,6 +84,8 @@
 5. Tally points
 	1. Add all the points listed on the cards
 	2. Add bonus points from decree cards (if possible)
+
+> *Catch Card: Red/Green/Blue card
 
 ## Concluding the game
 - Player with the highest points wins.
